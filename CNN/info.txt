@@ -1,1 +1,2 @@
 CNN TM MLP DNN scripts.
+Input for CNN_demo_2 is RNN/data_demo_2.
