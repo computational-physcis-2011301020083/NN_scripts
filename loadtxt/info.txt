@@ -1,0 +1,1 @@
+using np.loadtxt(itxt) to read txt in python
